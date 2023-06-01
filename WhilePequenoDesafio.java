@@ -12,7 +12,7 @@ public class WhilePequenoDesafio {
 			System.out.println("voce diz: ");
 			valor = entrada.nextLine();
 		}
-			
+			System.out.println("oi");
 		
 		
 		
